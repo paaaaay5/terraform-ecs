@@ -6,7 +6,7 @@ on:
             - main
     pull_request:
         branches:
-            - mains
+            - main
 
 env:
     OIDC_ARN: arn:aws:iam::774848854882:role/GitHubActionsOIDC
